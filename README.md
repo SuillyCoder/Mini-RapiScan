@@ -11,11 +11,15 @@
 
 </br>
 <h3> LOG 1: </h3>
-- Integrated the first phase of the pipeline: model processing
-- Utilized the yolov8 (nano) model for identifying dangerous objects in X-Ray Scans
-- Model Test yielded a 99.5% - 99.7% confidence rate on object detection
+<ul>
+  <li>Integrated the first phase of the pipeline: model processing</li>
+  <li>Utilized the yolov8 (nano) model for identifying dangerous objects in X-Ray Scans</li>
+  <li>>Model Test yielded a 99.5% - 99.7% confidence rate on object detection</li>
+</ul>
 
-<img width="500" height=250" alt="image" src="https://github.com/user-attachments/assets/2a85c87d-94bb-49a0-988b-62f781b82108" />
+<img width="940" height="601" alt="image" src="https://github.com/user-attachments/assets/122db233-2b84-44a1-a38f-61619f6b5e97" />
+
+
 
 
 
