@@ -8,6 +8,7 @@ xray_yolo_dataset/
 *.keras
 *.h5
 *.weights
+*.csv
 
 # Python cache
 __pycache__/
@@ -23,16 +24,13 @@ __pycache__/
 # Mac
 .DS_Store
 
-# Outputs
-prediction_samples.png
-*.jpg
-*.png
-*.mp4
-*.avi
-
 # Logs
 *.log
 
 # Environment
 venv/
 env/
+
+#Misc Items
+test_detection.png
+XRay_Import.mp4
