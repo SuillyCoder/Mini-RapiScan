@@ -4,9 +4,11 @@
 
 <h4>We might not have gotten in, but that won't stop me from trying my fun little idea out. This project combines both Image Classification and Object Detection features using the YoloV8 Machine Learning Model, Video Processing using TensorFlow and OpenCV, as well as Embedded Systems Output using an Arduino Uno MCU. This is a fun little project I thoguht of doing to put my Computer Engineering know how to good use. Why? Why not??</h4>
 
-</br>
+<img width="2001" height="1200" alt="image" src="https://github.com/user-attachments/assets/19c7d898-8a55-4801-ad4f-73b315fd6031" />
+
 
 <h4>From here on out, this will be a log containing all the changes I've done from the development all up until the embedded systems integration. Soooo yeahhh. This is gonna be fun.</h4>
+
 
 
 
