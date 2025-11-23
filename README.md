@@ -9,6 +9,14 @@
 
 <h4>From here on out, this will be a log containing all the changes I've done from the development all up until the embedded systems integration. Soooo yeahhh. This is gonna be fun.</h4>
 
+</br>
+<h3> LOG 1: </h3>
+- Integrated the first phase of the pipeline: model processing
+- Utilized the yolov8 (nano) model for identifying dangerous objects in X-Ray Scans
+- Model Test yielded a 99.5% - 99.7% confidence rate on object detection
+
+<img width="500" height=250" alt="image" src="https://github.com/user-attachments/assets/2a85c87d-94bb-49a0-988b-62f781b82108" />
+
 
 
 
