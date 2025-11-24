@@ -19,6 +19,17 @@
 
 <img width="940" height="601" alt="image" src="https://github.com/user-attachments/assets/122db233-2b84-44a1-a38f-61619f6b5e97" />
 
+<h3> LOG 2: </h3>
+<ul>
+  <li>Integrated the second phase of the pipeline: video processing</li>
+  <li>Utilized OpenCV libraries and image processing libraries to extract interval-based frames from video</li>
+  <li>Successfully processes and detects threats for a total of 65.4 seconds on a video running at 13.8 FPS</li>
+  <li>Real-time classification and output still needs to be tweaked</li>
+</ul>
+
+<img width="1205" height="679" alt="image" src="https://github.com/user-attachments/assets/977d9a9c-03a7-4f85-bed9-ac79863d58a4" />
+
+
 
 
 
