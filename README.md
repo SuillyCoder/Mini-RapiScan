@@ -29,6 +29,15 @@
 
 <img width="1205" height="679" alt="image" src="https://github.com/user-attachments/assets/977d9a9c-03a7-4f85-bed9-ac79863d58a4" />
 
+<h3> LOG 3: </h3>
+<ul>
+  <li>Reduced confidence threshold from 0.5 to 0.2, to make it detect things even more</li>
+  <li>Reduced memory frames from 10 to 7 to make for shorter memory and more instances to detect</li>
+  <li>It kind of works......I'll take it.</li>
+</ul>
+<img width="1185" height="667" alt="image" src="https://github.com/user-attachments/assets/0a24d536-a8ef-4961-a24c-944c705f4b64" />
+
+
 
 
 
