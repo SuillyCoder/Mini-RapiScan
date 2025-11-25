@@ -51,11 +51,14 @@
   <li>Processed over 900 frames, and issued in over 1600 alarm-triggered alerts</li>
   <li>System reads and sends out data real time</li>
 </ul>
-<img width="1066" height="595" alt="image" src="https://github.com/user-attachments/assets/432f10ac-17c9-4a4a-b361-95ae2409d332" />
-<img width="645" height="397" alt="image" src="https://github.com/user-attachments/assets/07711f9b-b26d-49a8-bef2-dcfa84d89b68" />
-<img width="750" height="403" alt="image" src="https://github.com/user-attachments/assets/49230c40-5b76-442a-8868-15d0ed3d261d" />
+<div>
+  <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/432f10ac-17c9-4a4a-b361-95ae2409d332" />
+  <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/07711f9b-b26d-49a8-bef2-dcfa84d89b68" />
+  <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/49230c40-5b76-442a-8868-15d0ed3d261d" /
+</div>
 
-<h2>PROJECT IMPLEMENTATION: SUCCESS!!!!!</h2>
+<h2>P🎉🎉🎉 PROJECT IMPLEMENTATION: SUCCESS!!!!! 🎉🎉🎉</h2>
+
 
 
 
