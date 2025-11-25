@@ -57,7 +57,8 @@
   <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/49230c40-5b76-442a-8868-15d0ed3d261d" /
 </div>
 
-<h2>P🎉🎉🎉 PROJECT IMPLEMENTATION: SUCCESS!!!!! 🎉🎉🎉</h2>
+<h2>🎉🎉🎉 PROJECT IMPLEMENTATION: SUCCESS!!!!! 🎉🎉🎉</h2>
+
 
 
 
