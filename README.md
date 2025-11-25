@@ -2,7 +2,7 @@
 
 <h3>Once upon a time, I tried my hand at joining a hackathon. We had this little idea in mind that involved X-Rays and Smart AI-Classification and Visualization for Airport X-Ray Scanners. Unfortunately, out of the many contestants that joined, we didn't get in, so the idea never got to be made.....or so I thought.</h3>
 
-<h4>We might not have gotten in, but that won't stop me from trying my fun little idea out. This project combines both Image Classification and Object Detection features using the YoloV8 Machine Learning Model, Video Processing using TensorFlow and OpenCV, as well as Embedded Systems Output using an Arduino Uno MCU. This is a fun little project I thoguht of doing to put my Computer Engineering know how to good use. Why? Why not??</h4>
+<h4>We might not have gotten in, but that won't stop me from trying my fun little idea out. This project combines both Image Classification and Object Detection features using the YoloV8 Machine Learning Model, Video Processing using TensorFlow and OpenCV, as well as Embedded Systems Output using an Arduino Uno MCU. This is a fun little project I thought of doing to put my Computer Engineering know how to good use. Why? Why not??</h4>
 
 <img width="2001" height="1200" alt="image" src="https://github.com/user-attachments/assets/19c7d898-8a55-4801-ad4f-73b315fd6031" />
 
@@ -44,6 +44,7 @@
   <li>Test scenario works out. Integration hasn't been done yet. That'll come in later.</li>
 </ul>
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/3dee7648-5a6e-4da4-a69c-c58f33cbf855" />
+
 
 
 
