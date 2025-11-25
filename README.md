@@ -37,6 +37,16 @@
 </ul>
 <img width="1185" height="667" alt="image" src="https://github.com/user-attachments/assets/0a24d536-a8ef-4961-a24c-944c705f4b64" />
 
+<h3> LOG 4: </h3>
+<ul>
+  <li>Set up a basic hardware output, interfaced with  16x2 LCD, some LEDs, a Buzzer, and a Push Button Switch</li>
+  <li>All inputs and outputs are connected to an Arduino Uno CH340 Microcontroller</li>
+  <li>Test scenario works out. Integration hasn't been done yet. That'll come in later.</li>
+</ul>
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/3dee7648-5a6e-4da4-a69c-c58f33cbf855" />
+
+
+
 
 
 
